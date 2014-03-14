@@ -1,0 +1,19 @@
+/*
+Theme Name: Ben's starter with theme wrapper
+*/
+
+body {
+font-family:helvetica;
+color:#222;
+background:#ddd;
+
+}
+
+nav ul li {
+list-style-type:none;display:inline-block;
+}
+
+aside {
+float:left;
+margin-right:12px;
+}
